@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+	<head>
+	<meta charset="utf-8">
+	<title>Mis peliculas preferidas</title>
+	<body>
+	<ul>
+	<li>La Guerra de las Galaxias</li>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Star_wars_1977_us.svg/250px-Star_wars_1977_us.svg.png">
+	<li>El padrino</li>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/The_Godfather_movie_logo.png/250px-The_Godfather_movie_logo.png">
+	<li>Scarface, el precio del dinero</li>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Scarface_movie_red_logo.png/220px-Scarface_movie_red_logo.png">
+	<li>Wall Street</li>
+	<img src="https://pics.filmaffinity.com/wall_street-224965061-mmed.jpg">
+	<li>Los santos inocentes</li>
+	<img src="https://2.bp.blogspot.com/-hSXfIynvRTo/VyvGSp_83sI/AAAAAAAARn8/KE4IlE_OcVI517BrAstkuNl6IzBFLDyfQCLcB/s320/los%2Bsantos%2Binocentes%2Bcartel.jpg">
+	<li>Amanece que no es poco</li>
+	<img src="http://www.pepitas.net/sites/default/files/imagecache/product/images/libros/portadas/amanece-que-no-es-poco.jpg">
+	</ul>
+	</body>
+</html>
